@@ -1,0 +1,13 @@
+body .recurpay__widget .recurpay__action {
+ display: none !important;
+}
+body .recurpay-hide, button.recurpay-hide {
+ display: block !important;
+}
+.quantity-cart-btn-wrapper{
+  display: flex;
+  gap: 10px;
+}
+.quantity-cart-btn-wrapper quantity-selector-component{
+  height: 58px;
+}

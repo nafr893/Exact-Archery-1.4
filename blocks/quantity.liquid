@@ -1,0 +1,17 @@
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
+  {% render 'quantity-selector', product: block.settings.product %}
+</div>
+
+{% schema %}
+{
+  "name": "t:names.quantity",
+  "tag": null,
+  "settings": [
+    {
+      "type": "product",
+      "id": "product",
+      "label": "t:settings.product"
+    }
+  ]
+}
+{% endschema %}
