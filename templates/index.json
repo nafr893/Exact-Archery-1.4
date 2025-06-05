@@ -1409,7 +1409,7 @@
         "text_37Jbai": {
           "type": "text",
           "settings": {
-            "text": "<p>Insert brief description here</p>",
+            "text": "<p><strong>Reliable broadheads built to last.</strong></p>",
             "width": "fit-content",
             "max_width": "none",
             "alignment": "left",
