@@ -259,20 +259,6 @@
               },
               "blocks": {}
             },
-            "variant_picker_R3rGDr": {
-              "type": "variant-picker",
-              "settings": {
-                "product": "{{ closest.product }}",
-                "variant_style": "dropdown",
-                "show_swatches": true,
-                "alignment": "left",
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
             "buy_buttons_eYQEYi": {
               "type": "buy-buttons",
               "settings": {
@@ -660,7 +646,6 @@
           "block_order": [
             "group_icgrde",
             "text_aEtTtq",
-            "variant_picker_R3rGDr",
             "buy_buttons_eYQEYi",
             "group_JbmQwr",
             "accordion_GkgNTg"
