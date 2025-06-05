@@ -553,9 +553,13 @@ a#copyright-link {
 }
 
 
-div.collection-card:hover {
+div.collection-card {
 .collection-card__image {
-scale: 1.1 !important; 
+  transition: transform 0.3s ease-in-out;
 
 }}
 
+div.collection-card:hover {
+.collection-card__image {
+ transform: scale(1.1);
+}}
