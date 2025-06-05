@@ -9,167 +9,13 @@
  */
 {
   "sections": {
-    "hero_jVaWmY": {
-      "type": "hero",
-      "blocks": {
-        "text_mh8W3q": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>ON SALE</p>",
-            "width": "fit-content",
-            "max_width": "normal",
-            "alignment": "left",
-            "type_preset": "rte",
-            "font": "var(--font-body--family)",
-            "font_size": "1rem",
-            "line_height": "normal",
-            "letter_spacing": "normal",
-            "case": "none",
-            "wrap": "pretty",
-            "color": "var(--color-foreground)",
-            "background": true,
-            "background_color": "#000000",
-            "corner_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 15,
-            "padding-inline-end": 15
-          },
-          "blocks": {}
-        },
-        "text_idXHkj": {
-          "type": "text",
-          "settings": {
-            "text": "<h2><strong>X-SERIES BROADHEADS</strong></h2>",
-            "width": "fit-content",
-            "max_width": "normal",
-            "alignment": "left",
-            "type_preset": "rte",
-            "font": "var(--font-body--family)",
-            "font_size": "1rem",
-            "line_height": "normal",
-            "letter_spacing": "normal",
-            "case": "none",
-            "wrap": "pretty",
-            "color": "var(--color-foreground)",
-            "background": false,
-            "background_color": "#00000026",
-            "corner_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
-        "text_iXYWz6": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Look and feel your best with our handmade beard care products.</p>",
-            "width": "100%",
-            "max_width": "none",
-            "alignment": "left",
-            "type_preset": "h6",
-            "font": "var(--font-body--family)",
-            "font_size": "1rem",
-            "line_height": "normal",
-            "letter_spacing": "normal",
-            "case": "none",
-            "wrap": "pretty",
-            "color": "var(--color-foreground)",
-            "background": false,
-            "background_color": "#00000026",
-            "corner_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 20,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
-        "button_jB9Mz8": {
-          "type": "button",
-          "settings": {
-            "label": "Shop now",
-            "link": "shopify://products/oil-butter-combo",
-            "open_in_new_tab": false,
-            "style_class": "button",
-            "width": "custom",
-            "custom_width": 35,
-            "width_mobile": "fit-content",
-            "custom_width_mobile": 100
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "text_mh8W3q",
-        "text_idXHkj",
-        "text_iXYWz6",
-        "button_jB9Mz8"
-      ],
-      "settings": {
-        "link": "",
-        "open_in_new_tab": false,
-        "media_type_1": "image",
-        "image_1": "shopify://shop_images/X-series_banner_1.3.png",
-        "media_type_2": "image",
-        "content_direction": "column",
-        "vertical_on_mobile": true,
-        "horizontal_alignment": "space-between",
-        "vertical_alignment": "flex-end",
-        "align_baseline": true,
-        "horizontal_alignment_flex_direction_column": "flex-start",
-        "vertical_alignment_flex_direction_column": "center",
-        "gap": 15,
-        "section_width": "page-width",
-        "section_height": "custom",
-        "section_height_custom": 90,
-        "color_scheme": "scheme-2",
-        "toggle_overlay": false,
-        "overlay_color": "rgba(0,0,0,0)",
-        "overlay_style": "gradient",
-        "gradient_direction": "to bottom",
-        "blurred_reflection": false,
-        "reflection_opacity": 75,
-        "padding-block-start": 100,
-        "padding-block-end": 48
-      }
-    },
     "hero_pekt6C": {
       "type": "hero",
       "blocks": {
-        "text_VffMkm": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>ON SALE</p>",
-            "width": "fit-content",
-            "max_width": "normal",
-            "alignment": "left",
-            "type_preset": "paragraph",
-            "font": "var(--font-body--family)",
-            "font_size": "1rem",
-            "line_height": "normal",
-            "letter_spacing": "normal",
-            "case": "none",
-            "wrap": "pretty",
-            "color": "var(--color-foreground)",
-            "background": true,
-            "background_color": "#000000",
-            "corner_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 15,
-            "padding-inline-end": 15
-          },
-          "blocks": {}
-        },
         "text_WdY4iF": {
           "type": "text",
           "settings": {
-            "text": "<h2><strong>Y-SERIES BROADHEADS</strong></h2>",
+            "text": "<h2><strong>X-SERIES BROADHEADS</strong></h2>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -194,10 +40,10 @@
         "text_HFTLjP": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "<p>Insert short paragraph of text</p>",
             "width": "100%",
             "max_width": "none",
-            "alignment": "center",
+            "alignment": "left",
             "type_preset": "h6",
             "font": "var(--font-body--family)",
             "font_size": "1rem",
@@ -232,7 +78,6 @@
         }
       },
       "block_order": [
-        "text_VffMkm",
         "text_WdY4iF",
         "text_HFTLjP",
         "button_Y8iB4r"
@@ -2754,7 +2599,6 @@
     }
   },
   "order": [
-    "hero_jVaWmY",
     "hero_pekt6C",
     "section_Qrc7Q4",
     "collection_list_cV33zC",
