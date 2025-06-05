@@ -553,9 +553,9 @@ a#copyright-link {
 }
 
 
-.collection-card__link:hover {
+a.collection-card__link:hover {
 .collection-card__image {
-scale: 1.05; 
+scale: 1.5 !important; 
 
 }}
 
