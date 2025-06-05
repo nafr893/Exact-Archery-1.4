@@ -1866,6 +1866,7 @@
           "static": true,
           "settings": {
             "media_type": "image",
+            "image": "shopify://shop_images/exact_archery_trophy_room_picture_1.8.png",
             "link": "",
             "video_loop": true,
             "video_autoplay": false,
