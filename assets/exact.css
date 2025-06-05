@@ -187,7 +187,12 @@ div#shopify-section-template--17256551809101__section_ibY97i, div#shopify-sectio
 }
 
 
-
+div#shopify-section-template--24615979712815__section_TaUitr {
+  
+div.border-style.custom-section-content {
+padding-left: 80px; 
+padding-right: 80px; 
+}}
 
 
 div.product-information__grid.product-information--media-left.product-information__grid--half{
@@ -568,3 +573,5 @@ span.deferred-media__poster-icon.icon-play {
   opacity: .01;  
   display: inline; 
 }
+
+
