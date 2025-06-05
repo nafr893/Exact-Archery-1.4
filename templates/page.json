@@ -191,6 +191,18 @@
     "section_rp4Txn": {
       "type": "section",
       "blocks": {
+        "divider_k8AAic": {
+          "type": "_divider",
+          "name": "t:names.divider",
+          "settings": {
+            "thickness": 1,
+            "corner_radius": "square",
+            "width_percent": 100,
+            "padding-block-start": 0,
+            "padding-block-end": 0
+          },
+          "blocks": {}
+        },
         "text_EX7j48": {
           "type": "text",
           "name": "t:names.text",
@@ -242,6 +254,7 @@
         }
       },
       "block_order": [
+        "divider_k8AAic",
         "text_EX7j48",
         "video_Pk6TfU"
       ],
@@ -270,7 +283,7 @@
         "overlay_color": "#00000026",
         "overlay_style": "solid",
         "gradient_direction": "to top",
-        "padding-block-start": 32,
+        "padding-block-start": 0,
         "padding-block-end": 32
       }
     },
