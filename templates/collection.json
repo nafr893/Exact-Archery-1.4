@@ -82,7 +82,6 @@
         "color_scheme": "scheme-2",
         "background_media": "image",
         "video_position": "cover",
-        "background_image": "shopify://shop_images/beard-boxes-collection-banner-1.2.webp",
         "background_image_position": "cover",
         "border": "none",
         "border_width": 1,
@@ -281,7 +280,7 @@
         "columns_gap_vertical": 16,
         "padding-inline-start": 0,
         "padding-inline-end": 0,
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-3",
         "padding-block-start": 0,
         "padding-block-end": 32
       }
