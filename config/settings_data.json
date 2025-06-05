@@ -9,7 +9,7 @@
  */
 {
   "current": {
-    "logo": "shopify://shop_images/el_jefe_main_logo.png",
+    "logo": "shopify://shop_images/Exact_Archery_logo.png",
     "logo_inverse": "shopify://shop_images/Microtech_logo_1.1.png",
     "favicon": "shopify://shop_images/el_jefe_favicon_lgoo_b1961e52-c882-4309-a290-4b076f5dde45.png",
     "type_body_font": "poppins_n4",
@@ -86,14 +86,6 @@
         "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
         "settings": {}
-      },
-      "10557767768680663964": {
-        "type": "shopify://apps/recurpay-subscriptions-app/blocks/recurpay-widget/c600a513-dad8-4030-8697-de47c18881f2",
-        "disabled": false,
-        "settings": {
-          "multiply_price_with_quantity": false,
-          "show_price_in_frequency_dropdown": false
-        }
       }
     },
     "color_schemes": {
@@ -145,8 +137,8 @@
           "primary_hover": "#191919",
           "border": "#000000cf",
           "shadow": "#000000",
-          "primary_button_background": "#cfa74b",
-          "primary_button_text": "#ffffff",
+          "primary_button_background": "#ffffff",
+          "primary_button_text": "#000000",
           "primary_button_border": "rgba(0,0,0,0)",
           "primary_button_hover_background": "#333333",
           "primary_button_hover_text": "#ffffff",
