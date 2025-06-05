@@ -40,7 +40,7 @@
         "text_HFTLjP": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Insert short paragraph of text that describes the product. </strong></p>",
+            "text": "<p><strong>Field tested broadheads you can count on.</strong></p>",
             "width": "100%",
             "max_width": "none",
             "alignment": "left",
@@ -66,7 +66,7 @@
           "type": "button",
           "settings": {
             "label": "Shop now",
-            "link": "shopify://products/oil-butter-or-balm-combo",
+            "link": "shopify://collections/4-blades",
             "open_in_new_tab": false,
             "style_class": "button",
             "width": "custom",
@@ -1409,7 +1409,7 @@
         "text_37Jbai": {
           "type": "text",
           "settings": {
-            "text": "<p>Insert brief description here</p>",
+            "text": "<p><strong>Reliable broadheads built to last.</strong></p>",
             "width": "fit-content",
             "max_width": "none",
             "alignment": "left",
@@ -1435,7 +1435,7 @@
           "type": "button",
           "settings": {
             "label": "Shop Now",
-            "link": "shopify://collections/all",
+            "link": "shopify://collections/3-blades",
             "open_in_new_tab": false,
             "style_class": "button",
             "width": "custom",
@@ -1510,11 +1510,11 @@
         "text_K9hnNf": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Show off your style with our exclusive merch!</strong></p>",
+            "text": "<p><strong>Reliable broadheads that are built to last.</strong></p>",
             "width": "fit-content",
-            "max_width": "none",
+            "max_width": "normal",
             "alignment": "left",
-            "type_preset": "h6",
+            "type_preset": "rte",
             "font": "var(--font-body--family)",
             "font_size": "1rem",
             "line_height": "normal",
@@ -1536,7 +1536,7 @@
           "type": "button",
           "settings": {
             "label": "Shop Now",
-            "link": "shopify://collections/merch",
+            "link": "shopify://collections/3-blades",
             "open_in_new_tab": false,
             "style_class": "button",
             "width": "custom",

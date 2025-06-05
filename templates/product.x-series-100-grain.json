@@ -598,7 +598,6 @@
             },
             "accordion_GkgNTg": {
               "type": "accordion",
-              "disabled": true,
               "settings": {
                 "icon": "caret",
                 "dividers": true,
@@ -781,7 +780,6 @@
       "block_order": [
         "group_zpjPwn"
       ],
-      "disabled": true,
       "name": "t:names.video_section",
       "settings": {
         "content_direction": "column",
