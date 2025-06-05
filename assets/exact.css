@@ -557,7 +557,7 @@ a#copyright-link {
 
    
       details.menu__details.spacing-style {
-        li.menu__item paragraph {
+        li.menu__item.paragraph {
           position: relative;
   text-decoration: none;
 
@@ -566,7 +566,7 @@ a#copyright-link {
 
 
   details.menu__details.spacing-style::after {
-        li.menu__item paragraph {
+        li.menu__item.paragraph {
          content: '';
   position: absolute;
   left: 0;
@@ -581,7 +581,7 @@ a#copyright-link {
       }
 
 details.menu__details.spacing-style {
-        li.menu__item paragraph:hover::after {
+        li.menu__item.paragraph:hover::after {
 transform: scaleX(1);
 
         }}
