@@ -548,11 +548,11 @@ a#copyright-link {
 
  
     
-  .collection-card:hover::after,
+  .collection-card:hover::after {
 .link:hover::after,
 .link:focus::after {
   transform: scaleX(1);
-}
+}}
 
    
 div.details-content {
