@@ -502,3 +502,12 @@ a#copyright-link {
 .button:hover .bottom-right {
   width: calc(100%);
 }
+
+/* link button styles */
+.link  {
+  font-size: 24px; 
+  text-decoration: underline;
+  text-decoration-color: #ffd502;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+}
