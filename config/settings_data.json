@@ -91,7 +91,7 @@
     "color_schemes": {
       "scheme-1": {
         "settings": {
-          "background": "#111111",
+          "background": "#000000",
           "foreground_heading": "#ffffff",
           "foreground": "#ffffff",
           "primary": "#ffffffcf",
