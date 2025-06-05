@@ -556,16 +556,15 @@ a#copyright-link {
 }
 
    
-      details.menu__details.spacing-style {
+      div.details-content {
         li.menu__item.paragraph {
           position: relative;
-  text-decoration: none;
 
         }
       }
 
 
-  details.menu__details.spacing-style::after {
+ div.details-content::after {
         li.menu__item.paragraph {
          content: '';
   position: absolute;
@@ -580,7 +579,7 @@ a#copyright-link {
         }
       }
 
-details.menu__details.spacing-style {
+div.details-content {
         li.menu__item.paragraph:hover::after {
 transform: scaleX(1);
 
