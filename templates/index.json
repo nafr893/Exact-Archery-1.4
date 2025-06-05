@@ -40,7 +40,7 @@
         "text_HFTLjP": {
           "type": "text",
           "settings": {
-            "text": "<p>Insert short paragraph of text that describes the product. </p>",
+            "text": "<p><strong>Insert short paragraph of text that describes the product. </strong></p>",
             "width": "100%",
             "max_width": "none",
             "alignment": "left",
@@ -1757,6 +1757,208 @@
         "padding-block-end": 50
       }
     },
+    "hero_b8ddFf": {
+      "type": "hero",
+      "blocks": {
+        "text_zdrBVH": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>TROPHY ROOM</strong></h2>",
+            "width": "fit-content",
+            "max_width": "narrow",
+            "alignment": "left",
+            "type_preset": "h2",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground-heading)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "text_tCTYPU": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>See our broadheads in action, trusted by hundreds of hunters.</strong></p>",
+            "width": "fit-content",
+            "max_width": "none",
+            "alignment": "left",
+            "type_preset": "h6",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground-heading)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 10,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "button_ADUVMB": {
+          "type": "button",
+          "settings": {
+            "label": "Shop Now",
+            "link": "shopify://collections/merch",
+            "open_in_new_tab": false,
+            "style_class": "button",
+            "width": "custom",
+            "custom_width": 50,
+            "width_mobile": "custom",
+            "custom_width_mobile": 50
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "text_zdrBVH",
+        "text_tCTYPU",
+        "button_ADUVMB"
+      ],
+      "settings": {
+        "link": "",
+        "open_in_new_tab": false,
+        "media_type_1": "image",
+        "image_1": "shopify://shop_images/Trophy_Room_Mobile_1.4.png",
+        "media_type_2": "image",
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "flex-end",
+        "gap": 10,
+        "section_width": "page-width",
+        "section_height": "custom",
+        "section_height_custom": 90,
+        "color_scheme": "scheme-2",
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "gradient",
+        "gradient_direction": "to top",
+        "blurred_reflection": false,
+        "reflection_opacity": 75,
+        "padding-block-start": 40,
+        "padding-block-end": 40
+      }
+    },
+    "hero_3pgtrt": {
+      "type": "hero",
+      "blocks": {
+        "text_RtT8jH": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>TROPHY ROOM</strong></h2>",
+            "width": "fit-content",
+            "max_width": "narrow",
+            "alignment": "left",
+            "type_preset": "h2",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground-heading)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "text_KkCp4T": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>See our broadheads in action, trusted by hundreds of hunters.</strong></p>",
+            "width": "fit-content",
+            "max_width": "none",
+            "alignment": "left",
+            "type_preset": "h6",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground-heading)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 10,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "button_kddBMa": {
+          "type": "button",
+          "settings": {
+            "label": "Shop Now",
+            "link": "shopify://collections/merch",
+            "open_in_new_tab": false,
+            "style_class": "button",
+            "width": "custom",
+            "custom_width": 50,
+            "width_mobile": "custom",
+            "custom_width_mobile": 50
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "text_RtT8jH",
+        "text_KkCp4T",
+        "button_kddBMa"
+      ],
+      "settings": {
+        "link": "",
+        "open_in_new_tab": false,
+        "media_type_1": "image",
+        "image_1": "shopify://shop_images/Trophy_Room_Desktop_1.2.png",
+        "media_type_2": "image",
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "flex-end",
+        "gap": 10,
+        "section_width": "page-width",
+        "section_height": "custom",
+        "section_height_custom": 90,
+        "color_scheme": "scheme-2",
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "gradient",
+        "gradient_direction": "to top",
+        "blurred_reflection": false,
+        "reflection_opacity": 75,
+        "padding-block-start": 40,
+        "padding-block-end": 40
+      }
+    },
     "slideshow_GxfRPU": {
       "type": "slideshow",
       "blocks": {
@@ -3083,6 +3285,8 @@
     "hero_jjgqYF",
     "hero_r7rzmK",
     "collection_list_aJJW7j",
+    "hero_b8ddFf",
+    "hero_3pgtrt",
     "slideshow_GxfRPU",
     "section_ViUT7c",
     "section_YMDFam",
