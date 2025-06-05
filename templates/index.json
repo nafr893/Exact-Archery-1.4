@@ -895,7 +895,7 @@
         "text_yf3DCh": {
           "type": "text",
           "settings": {
-            "text": "<h2><strong>DRESS LIKE A BOSS</strong></h2>",
+            "text": "<h2><strong>Y-SERIES BROADHEADS</strong></h2>",
             "width": "fit-content",
             "max_width": "narrow",
             "alignment": "left",
@@ -920,7 +920,7 @@
         "text_37Jbai": {
           "type": "text",
           "settings": {
-            "text": "<p>Show off your style with our exclusive merch!</p>",
+            "text": "<p>Insert brief description here</p>",
             "width": "fit-content",
             "max_width": "none",
             "alignment": "left",
@@ -950,7 +950,7 @@
             "open_in_new_tab": false,
             "style_class": "button",
             "width": "custom",
-            "custom_width": 50,
+            "custom_width": 40,
             "width_mobile": "custom",
             "custom_width_mobile": 100
           },
@@ -966,6 +966,7 @@
         "link": "",
         "open_in_new_tab": false,
         "media_type_1": "image",
+        "image_1": "shopify://shop_images/Y-Series_Banner_1.2.png",
         "media_type_2": "image",
         "content_direction": "column",
         "vertical_on_mobile": true,
@@ -978,7 +979,7 @@
         "section_width": "page-width",
         "section_height": "custom",
         "section_height_custom": 85,
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
         "toggle_overlay": true,
         "overlay_color": "#00000026",
         "overlay_style": "gradient",
