@@ -1813,7 +1813,7 @@
         "button_ADUVMB": {
           "type": "button",
           "settings": {
-            "label": "Shop Now",
+            "label": "Explore",
             "link": "shopify://collections/merch",
             "open_in_new_tab": false,
             "style_class": "button",
