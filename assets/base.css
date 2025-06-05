@@ -16,9 +16,9 @@ body {
   /* hover effects
   --hover-lift-amount: 4px;
   --hover-scale-amount: 1.03;
-  --hover-subtle-zoom-amount: 1.015;
+  
 */
-
+--hover-subtle-zoom-amount: 1.15;
   --hover-shadow-color: var(--color-shadow);
   --hover-transition-duration: 0.25s;
   --hover-transition-timing: ease-out;
