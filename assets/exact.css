@@ -546,7 +546,7 @@ a#copyright-link {
     
     
     
-   .collection-card--image-bg.collection-card__inner:hover::after,
+   .collection-card--image-bg .collection-card__inner:hover::after,
 .link:hover::after,
 .link:focus::after {
   transform: scaleX(1);

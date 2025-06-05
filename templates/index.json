@@ -680,7 +680,7 @@
                   "name": "t:names.button",
                   "settings": {
                     "label": "4 Blades",
-                    "link": "",
+                    "link": "shopify://collections/4-blades",
                     "open_in_new_tab": false,
                     "style_class": "link",
                     "width": "fit-content",
@@ -761,7 +761,7 @@
                   "name": "t:names.button",
                   "settings": {
                     "label": "Tools",
-                    "link": "",
+                    "link": "shopify://collections/tools",
                     "open_in_new_tab": false,
                     "style_class": "link",
                     "width": "fit-content",
