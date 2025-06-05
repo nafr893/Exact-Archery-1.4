@@ -599,7 +599,7 @@
                   "name": "t:names.button",
                   "settings": {
                     "label": "3 Blades",
-                    "link": "",
+                    "link": "shopify://collections/3-blades",
                     "open_in_new_tab": false,
                     "style_class": "link",
                     "width": "fit-content",
