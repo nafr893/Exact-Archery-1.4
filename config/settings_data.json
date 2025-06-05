@@ -295,7 +295,7 @@
           "shadow": "#000000",
           "primary_button_background": "rgba(0,0,0,0)",
           "primary_button_text": "#ffffff",
-          "primary_button_border": "rgba(0,0,0,0)",
+          "primary_button_border": "#ffd502",
           "primary_button_hover_background": "#000000",
           "primary_button_hover_text": "#ffffff",
           "primary_button_hover_border": "#000000",
