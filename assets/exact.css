@@ -555,17 +555,16 @@ a#copyright-link {
   transform: scaleX(1);
 }
 
-   
-      div.details-content {
-        li.menu__item.paragraph {
+   li.menu__item.paragraph {
+        a {
           position: relative;
 
         }
       }
 
 
- div.details-content::after {
-        li.menu__item.paragraph {
+ li.menu__item.paragraph::after {
+        a {
          content: '';
   position: absolute;
   left: 0;
@@ -579,8 +578,8 @@ a#copyright-link {
         }
       }
 
-div.details-content {
-        li.menu__item.paragraph:hover::after {
+li.menu__item.paragraph {
+        a:hover::after {
 transform: scaleX(1);
 
         }}
