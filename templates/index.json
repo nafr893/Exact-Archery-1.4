@@ -1813,7 +1813,7 @@
         "button_ADUVMB": {
           "type": "button",
           "settings": {
-            "label": "Shop Now",
+            "label": "Explore",
             "link": "shopify://collections/merch",
             "open_in_new_tab": false,
             "style_class": "button",
@@ -1914,12 +1914,12 @@
         "button_kddBMa": {
           "type": "button",
           "settings": {
-            "label": "Shop Now",
+            "label": "Explore",
             "link": "shopify://collections/merch",
             "open_in_new_tab": false,
             "style_class": "button",
             "width": "custom",
-            "custom_width": 50,
+            "custom_width": 40,
             "width_mobile": "custom",
             "custom_width_mobile": 50
           },
@@ -1935,7 +1935,7 @@
         "link": "",
         "open_in_new_tab": false,
         "media_type_1": "image",
-        "image_1": "shopify://shop_images/Trophy_Room_Desktop_1.2.png",
+        "image_1": "shopify://shop_images/Trophy_Room_Desktop_1.21.png",
         "media_type_2": "image",
         "content_direction": "column",
         "vertical_on_mobile": true,
@@ -2609,6 +2609,7 @@
         "slide_T7qMCN",
         "slide_yXXExE"
       ],
+      "disabled": true,
       "settings": {
         "icons_style": "arrows_large",
         "slideshow_controls_style": "dots",
@@ -2972,6 +2973,7 @@
         "group_YjrE84",
         "image_YxX7gh"
       ],
+      "disabled": true,
       "settings": {
         "content_direction": "row",
         "vertical_on_mobile": true,
@@ -3138,6 +3140,7 @@
         "image_9iFc3h",
         "group_GxgbRf"
       ],
+      "disabled": true,
       "settings": {
         "content_direction": "row",
         "vertical_on_mobile": true,
@@ -3172,7 +3175,7 @@
         "text_eTWyGX": {
           "type": "text",
           "settings": {
-            "text": "<h2><strong>STAY IN THE LOOP</strong></h2>",
+            "text": "<h2><strong>STAY UPDATED</strong></h2>",
             "width": "fit-content",
             "max_width": "narrow",
             "alignment": "left",
@@ -3197,7 +3200,7 @@
         "text_x4FhwM": {
           "type": "text",
           "settings": {
-            "text": "<p>Get news on the latest drops, exclusive offers. and everything El Jefe!</p>",
+            "text": "<p>We’ll send you the latest on new products and special offers.</p>",
             "width": "fit-content",
             "max_width": "none",
             "alignment": "left",
@@ -3213,7 +3216,7 @@
             "background_color": "#00000026",
             "corner_radius": 0,
             "padding-block-start": 0,
-            "padding-block-end": 32,
+            "padding-block-end": 10,
             "padding-inline-start": 0,
             "padding-inline-end": 0
           },
@@ -3252,6 +3255,7 @@
         "link": "",
         "open_in_new_tab": false,
         "media_type_1": "image",
+        "image_1": "shopify://shop_images/Email_signup_exact_1.5.png",
         "media_type_2": "image",
         "content_direction": "column",
         "vertical_on_mobile": true,
@@ -3263,7 +3267,117 @@
         "gap": 15,
         "section_width": "page-width",
         "section_height": "custom",
-        "section_height_custom": 65,
+        "section_height_custom": 75,
+        "color_scheme": "scheme-5",
+        "toggle_overlay": true,
+        "overlay_color": "#00000094",
+        "overlay_style": "gradient",
+        "gradient_direction": "to top",
+        "blurred_reflection": false,
+        "reflection_opacity": 75,
+        "padding-block-start": 40,
+        "padding-block-end": 40
+      }
+    },
+    "hero_WagUwL": {
+      "type": "hero",
+      "blocks": {
+        "text_dcCjiB": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>STAY UPDATED</strong></h2>",
+            "width": "fit-content",
+            "max_width": "narrow",
+            "alignment": "left",
+            "type_preset": "h2",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground-heading)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "text_xgXRC3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We’ll send you the latest on new products and special offers.</p>",
+            "width": "fit-content",
+            "max_width": "none",
+            "alignment": "left",
+            "type_preset": "h6",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground-heading)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 10,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "email_signup_xzTgqf": {
+          "type": "email-signup",
+          "settings": {
+            "width": "custom",
+            "custom_width": 70,
+            "inherit_color_scheme": false,
+            "color_scheme": "scheme-1",
+            "border_style": "all",
+            "border_width": 2,
+            "border_radius": 0,
+            "input_type_preset": "paragraph",
+            "style_class": "button",
+            "display_type": "text",
+            "label": "SUBSCRIBE",
+            "integrated_button": true,
+            "button_type_preset": "paragraph",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "text_dcCjiB",
+        "text_xgXRC3",
+        "email_signup_xzTgqf"
+      ],
+      "settings": {
+        "link": "",
+        "open_in_new_tab": false,
+        "media_type_1": "image",
+        "image_1": "shopify://shop_images/email_signup_exact_mobile_1.7.png",
+        "media_type_2": "image",
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 15,
+        "section_width": "page-width",
+        "section_height": "custom",
+        "section_height_custom": 75,
         "color_scheme": "scheme-5",
         "toggle_overlay": true,
         "overlay_color": "#00000094",
@@ -3291,6 +3405,7 @@
     "section_ViUT7c",
     "section_YMDFam",
     "section_ALDMy9",
-    "hero_L8tkXE"
+    "hero_L8tkXE",
+    "hero_WagUwL"
   ]
 }
