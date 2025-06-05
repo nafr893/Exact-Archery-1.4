@@ -1980,7 +1980,7 @@
                   "settings": {
                     "text": "<p>See our broadheads in action, trusted by hundreds of hunters.</p>",
                     "width": "fit-content",
-                    "max_width": "narrow",
+                    "max_width": "normal",
                     "alignment": "left",
                     "type_preset": "h6",
                     "font": "var(--font-body--family)",
