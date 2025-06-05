@@ -2072,6 +2072,7 @@
           ]
         }
       },
+      "disabled": true,
       "name": "t:names.editorial",
       "settings": {
         "media_position": "right",
