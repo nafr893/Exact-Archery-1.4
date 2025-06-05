@@ -15,10 +15,11 @@ body {
 :root {
   /* hover effects
   --hover-lift-amount: 4px;
+    --hover-scale-amount: 1.3;
+--hover-subtle-zoom-amount: 1.15;
   
 */
-  --hover-scale-amount: 1.3;
---hover-subtle-zoom-amount: 1.15;
+
   --hover-shadow-color: var(--color-shadow);
   --hover-transition-duration: 0.25s;
   --hover-transition-timing: ease-out;
