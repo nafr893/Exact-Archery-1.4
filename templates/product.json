@@ -726,7 +726,7 @@
           "name": "t:names.video",
           "settings": {
             "source": "url",
-            "video_url": "https://www.youtube.com/watch?v=JujZACiwo",
+            "video_url": "https://www.youtube.com/watch?v=JujZACiwo_0",
             "video_autoplay": false,
             "video_loop": true,
             "alt": "",
