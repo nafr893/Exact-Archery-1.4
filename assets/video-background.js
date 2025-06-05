@@ -36,7 +36,8 @@ document.addEventListener('DOMContentLoaded', function () {
     const playButton = media.querySelector('.deferred-media__poster-button');
     if (playButton) {
       playButton.addEventListener('click', function () {
-        playButton.style.opacity = '0'; 
+        playButton.style.opacity = '0';
+        playButton.style.pointerEvents = 'none';
       });
     }
   });
