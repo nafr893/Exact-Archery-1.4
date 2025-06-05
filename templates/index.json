@@ -1435,7 +1435,7 @@
           "type": "button",
           "settings": {
             "label": "Shop Now",
-            "link": "shopify://collections/all",
+            "link": "shopify://collections/3-blades",
             "open_in_new_tab": false,
             "style_class": "button",
             "width": "custom",
