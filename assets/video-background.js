@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const playButton = media.querySelector('.deferred-media__poster-button');
     if (playButton) {
       playButton.addEventListener('click', function () {
-        playButton.style.display = 'none'; // <-- Correct way to hide the button
+        playButton.style.display = ''; 
       });
     }
   });
