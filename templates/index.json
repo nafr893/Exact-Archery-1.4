@@ -3175,7 +3175,7 @@
         "text_eTWyGX": {
           "type": "text",
           "settings": {
-            "text": "<h2><strong>STAY IN THE LOOP</strong></h2>",
+            "text": "<h2><strong>STAY UPDATED</strong></h2>",
             "width": "fit-content",
             "max_width": "narrow",
             "alignment": "left",
@@ -3200,7 +3200,7 @@
         "text_x4FhwM": {
           "type": "text",
           "settings": {
-            "text": "<p>Get news on the latest drops, exclusive offers. and everything El Jefe!</p>",
+            "text": "<p>We’ll send you the latest on new products and special offers.</p>",
             "width": "fit-content",
             "max_width": "none",
             "alignment": "left",
