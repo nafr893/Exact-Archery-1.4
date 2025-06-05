@@ -548,12 +548,9 @@ a#copyright-link {
 
  
     
-  .collection-card:hover {
-.link:hover::after,
-.link:focus::after {
+.collection-card:hover .link::after {
   transform: scaleX(1);
-}}
-
+}
    
 div.details-content {
 
