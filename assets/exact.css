@@ -563,3 +563,7 @@ div.collection-card:hover {
 .collection-card__image {
  transform: scale(1.05);
 }}
+
+span.deferred-media__poster-icon.icon-play {
+  display: none; 
+}
