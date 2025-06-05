@@ -405,7 +405,7 @@
                     "icon_atCepq": {
                       "type": "icon",
                       "settings": {
-                        "icon": "plant",
+                        "icon": "return",
                         "width": 34,
                         "link": "",
                         "open_in_new_tab": false
@@ -415,7 +415,7 @@
                     "text_GYmbzh": {
                       "type": "text",
                       "settings": {
-                        "text": "<p>Natural ingredients</p>",
+                        "text": "<p>Free Returns In 30 Days</p>",
                         "width": "fit-content",
                         "max_width": "normal",
                         "alignment": "left",
