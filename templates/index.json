@@ -2031,7 +2031,7 @@
       "name": "t:names.editorial",
       "settings": {
         "media_position": "right",
-        "media_width": "wide",
+        "media_width": "medium",
         "media_height": "60svh",
         "section_width": "page-width",
         "extend_media": false,
