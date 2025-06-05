@@ -548,7 +548,7 @@ a#copyright-link {
 
  
     
-    
+    div.collection-card:hover::after,
    .collection-card--image-bg.collection-card__inner:hover::after,
 .link:hover::after,
 .link:focus::after {
@@ -583,12 +583,11 @@ div.details-content {
         }
       
 
-div.collection-card:hover {
+
         a:hover::after {
 transform: scaleX(1);
 
-        }}
-
+        }
 
 
       }
