@@ -548,7 +548,7 @@ a#copyright-link {
 
  
     
-    div.collection-card:hover::after,
+  .collection-card:hover::after,
 .link:hover::after,
 .link:focus::after {
   transform: scaleX(1);
