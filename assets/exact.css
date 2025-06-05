@@ -565,5 +565,6 @@ div.collection-card:hover {
 }}
 
 span.deferred-media__poster-icon.icon-play {
-  opacity: 0;  
+  opacity: .01;  
+  display: inline; 
 }
