@@ -640,7 +640,7 @@
                   "static": true,
                   "settings": {
                     "collection": "3-blades",
-                    "image_ratio": "portrait",
+                    "image_ratio": "square",
                     "toggle_overlay": false,
                     "overlay_color": "#00000026",
                     "overlay_style": "solid",
@@ -721,7 +721,7 @@
                   "static": true,
                   "settings": {
                     "collection": "4-blades",
-                    "image_ratio": "portrait",
+                    "image_ratio": "square",
                     "toggle_overlay": false,
                     "overlay_color": "#00000026",
                     "overlay_style": "solid",
