@@ -605,7 +605,7 @@ div.collection-card {
 
 div.collection-card:hover {
 .collection-card__image {
- transform: scale(1.03);
+ transform: scale(1.05);
 }}
 
 span.deferred-media__poster-icon.icon-play {
