@@ -553,7 +553,7 @@ a#copyright-link {
 }
 
 
-.collection__cart:hover {
+.collection-card__link:hover {
 .collection-card__image {
 scale: 1.05; 
 
