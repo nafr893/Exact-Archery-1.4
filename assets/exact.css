@@ -560,6 +560,7 @@ a#copyright-link {
         a {
           position: relative;
   text-decoration: none;
+  display: none;
         }
       }
 
