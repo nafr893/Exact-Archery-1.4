@@ -556,11 +556,16 @@ a#copyright-link {
 }
 
    
+div.details-content {
+
+
         a {
           position: relative;
 
         }
       
+
+
 
 
  a::after {
@@ -583,6 +588,10 @@ a#copyright-link {
 transform: scaleX(1);
 
         }
+
+
+
+      }
 
 
 div.collection-card {
