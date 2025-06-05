@@ -2609,6 +2609,7 @@
         "slide_T7qMCN",
         "slide_yXXExE"
       ],
+      "disabled": true,
       "settings": {
         "icons_style": "arrows_large",
         "slideshow_controls_style": "dots",
@@ -2972,6 +2973,7 @@
         "group_YjrE84",
         "image_YxX7gh"
       ],
+      "disabled": true,
       "settings": {
         "content_direction": "row",
         "vertical_on_mobile": true,
@@ -3138,6 +3140,7 @@
         "image_9iFc3h",
         "group_GxgbRf"
       ],
+      "disabled": true,
       "settings": {
         "content_direction": "row",
         "vertical_on_mobile": true,
@@ -3252,6 +3255,7 @@
         "link": "",
         "open_in_new_tab": false,
         "media_type_1": "image",
+        "image_1": "shopify://shop_images/Email_signup_exact_1.3.png",
         "media_type_2": "image",
         "content_direction": "column",
         "vertical_on_mobile": true,
