@@ -95,8 +95,8 @@
             "link": "shopify://products/oil-butter-combo",
             "open_in_new_tab": false,
             "style_class": "button",
-            "width": "fit-content",
-            "custom_width": 50,
+            "width": "custom",
+            "custom_width": 35,
             "width_mobile": "fit-content",
             "custom_width_mobile": 100
           },
