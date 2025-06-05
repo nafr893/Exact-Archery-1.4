@@ -44,7 +44,7 @@
           "type": "_product-details",
           "static": true,
           "settings": {
-            "gap": 20,
+            "gap": 15,
             "sticky_details_desktop": true,
             "width": "fill",
             "custom_width": 100,
@@ -233,18 +233,6 @@
                 "group_iyt7yq",
                 "product_inventory_PNJTKe"
               ]
-            },
-            "divider_VJhene": {
-              "type": "_divider",
-              "disabled": true,
-              "settings": {
-                "thickness": 1,
-                "corner_radius": "square",
-                "width_percent": 100,
-                "padding-block-start": 0,
-                "padding-block-end": 0
-              },
-              "blocks": {}
             },
             "text_aEtTtq": {
               "type": "text",
@@ -671,7 +659,6 @@
           },
           "block_order": [
             "group_icgrde",
-            "divider_VJhene",
             "text_aEtTtq",
             "variant_picker_R3rGDr",
             "buy_buttons_eYQEYi",
