@@ -1944,7 +1944,7 @@
             "source": "url",
             "video_url": "https://www.youtube.com/watch?v=JujZACiwo_0&t=7s",
             "video_autoplay": false,
-            "video_loop": true,
+            "video_loop": false,
             "cover_image": "shopify://shop_images/Lusk_archery_thumbnail.png",
             "alt": "",
             "custom_width": 100,
