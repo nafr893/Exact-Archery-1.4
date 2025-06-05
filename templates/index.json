@@ -14,6 +14,7 @@
       "blocks": {
         "text_mh8W3q": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>ON SALE</p>",
             "width": "fit-content",
@@ -40,7 +41,7 @@
         "text_idXHkj": {
           "type": "text",
           "settings": {
-            "text": "<h2><strong>OIL + BUTTER COMBO</strong></h2>",
+            "text": "<h2><strong>X-SERIES BROADHEADS</strong></h2>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -112,7 +113,6 @@
         "link": "",
         "open_in_new_tab": false,
         "media_type_1": "image",
-        "image_1": "shopify://shop_images/Balm_and_Oil_Combo_aa263f8d-f17d-419a-8b39-075d2a68babb.webp",
         "media_type_2": "image",
         "content_direction": "column",
         "vertical_on_mobile": true,
@@ -141,6 +141,7 @@
       "blocks": {
         "text_VffMkm": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>ON SALE</p>",
             "width": "fit-content",
@@ -167,7 +168,7 @@
         "text_WdY4iF": {
           "type": "text",
           "settings": {
-            "text": "<h2><strong>OIL + BALM BUNDLE</strong></h2>",
+            "text": "<h2><strong>Text</strong></h2>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -239,7 +240,6 @@
         "link": "",
         "open_in_new_tab": false,
         "media_type_1": "image",
-        "image_1": "shopify://shop_images/el_jefe_mobile_homepage_1.2.webp",
         "media_type_2": "image",
         "content_direction": "column",
         "vertical_on_mobile": true,
@@ -308,7 +308,6 @@
               "type": "icon",
               "settings": {
                 "icon": "fire",
-                "image_upload": "shopify://shop_images/AdobeStock_755182426.webp",
                 "width": 80,
                 "link": "",
                 "open_in_new_tab": false
@@ -388,7 +387,6 @@
               "type": "icon",
               "settings": {
                 "icon": "fire",
-                "image_upload": "shopify://shop_images/natural_ingredients_1.2.png",
                 "width": 76,
                 "link": "",
                 "open_in_new_tab": false
@@ -468,7 +466,6 @@
               "type": "icon",
               "settings": {
                 "icon": "fire",
-                "image_upload": "shopify://shop_images/delivery_box_icon_ca7a6605-257f-4de0-a9df-1a43a2ca455e.png",
                 "width": 50,
                 "link": "",
                 "open_in_new_tab": false
@@ -548,7 +545,6 @@
               "type": "icon",
               "settings": {
                 "icon": "fire",
-                "image_upload": "shopify://shop_images/AdobeStock_752281984.png",
                 "width": 56,
                 "link": "",
                 "open_in_new_tab": false
@@ -968,7 +964,6 @@
         "link": "",
         "open_in_new_tab": false,
         "media_type_1": "image",
-        "image_1": "shopify://shop_images/el_jefe_beard_co_merch_1.3.webp",
         "media_type_2": "image",
         "content_direction": "column",
         "vertical_on_mobile": true,
@@ -1069,7 +1064,6 @@
         "link": "",
         "open_in_new_tab": false,
         "media_type_1": "image",
-        "image_1": "shopify://shop_images/el_jefe_merch_1.2.webp",
         "media_type_2": "image",
         "content_direction": "column",
         "vertical_on_mobile": true,
@@ -1277,7 +1271,6 @@
           "type": "_slide",
           "settings": {
             "media_type_1": "image",
-            "image_1": "shopify://shop_images/Background_Texture.webp",
             "content_direction": "column",
             "vertical_on_mobile": true,
             "horizontal_alignment": "flex-start",
@@ -1340,7 +1333,6 @@
                   "type": "icon",
                   "settings": {
                     "icon": "star",
-                    "image_upload": "shopify://shop_images/5_stars_1.1.png",
                     "width": 150,
                     "link": "",
                     "open_in_new_tab": false
@@ -1439,7 +1431,6 @@
           "type": "_slide",
           "settings": {
             "media_type_1": "image",
-            "image_1": "shopify://shop_images/Background_Texture.webp",
             "content_direction": "column",
             "vertical_on_mobile": true,
             "horizontal_alignment": "flex-start",
@@ -1502,7 +1493,6 @@
                   "type": "icon",
                   "settings": {
                     "icon": "star",
-                    "image_upload": "shopify://shop_images/5_stars_1.1.png",
                     "width": 150,
                     "link": "",
                     "open_in_new_tab": false
@@ -1601,7 +1591,6 @@
           "type": "_slide",
           "settings": {
             "media_type_1": "image",
-            "image_1": "shopify://shop_images/Background_Texture.webp",
             "content_direction": "column",
             "vertical_on_mobile": true,
             "horizontal_alignment": "flex-start",
@@ -1664,7 +1653,6 @@
                   "type": "icon",
                   "settings": {
                     "icon": "star",
-                    "image_upload": "shopify://shop_images/5_stars_1.1.png",
                     "width": 150,
                     "link": "",
                     "open_in_new_tab": false
@@ -1763,7 +1751,6 @@
           "type": "_slide",
           "settings": {
             "media_type_1": "image",
-            "image_1": "shopify://shop_images/Background_Texture.webp",
             "content_direction": "column",
             "vertical_on_mobile": true,
             "horizontal_alignment": "flex-start",
@@ -1826,7 +1813,6 @@
                   "type": "icon",
                   "settings": {
                     "icon": "star",
-                    "image_upload": "shopify://shop_images/5_stars_1.1.png",
                     "width": 150,
                     "link": "",
                     "open_in_new_tab": false
@@ -2268,7 +2254,6 @@
         "image_YxX7gh": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/subscription-1.6.webp",
             "link": "",
             "image_ratio": "adapt",
             "width": "custom",
@@ -2326,7 +2311,6 @@
         "image_9iFc3h": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/subscription-1.6.webp",
             "link": "",
             "image_ratio": "adapt",
             "width": "custom",
@@ -2573,7 +2557,6 @@
         "link": "",
         "open_in_new_tab": false,
         "media_type_1": "image",
-        "image_1": "shopify://shop_images/man_with_beard_1.2.webp",
         "media_type_2": "image",
         "content_direction": "column",
         "vertical_on_mobile": true,
