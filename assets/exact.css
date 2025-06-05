@@ -552,8 +552,10 @@ a#copyright-link {
   transform: scaleX(1);
 }
 
-.collection-card__image:hover {
+
+.collection__cart:hover {
+.collection-card__image {
 scale: 1.05; 
 
-}
+}}
 
