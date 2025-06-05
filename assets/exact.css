@@ -555,16 +555,16 @@ a#copyright-link {
   transform: scaleX(1);
 }
 
-   li.menu__item.paragraph {
+   
         a {
           position: relative;
 
         }
-      }
+      
 
 
- li.menu__item.paragraph::after {
-        a {
+ a::after {
+     
          content: '';
   position: absolute;
   left: 0;
@@ -576,13 +576,13 @@ a#copyright-link {
   transform-origin: left;
   transition: transform 0.3s cubic-bezier(0.4,0,0.2,1);
         }
-      }
+      
 
-li.menu__item.paragraph {
+
         a:hover::after {
 transform: scaleX(1);
 
-        }}
+        }
 
 
 div.collection-card {
