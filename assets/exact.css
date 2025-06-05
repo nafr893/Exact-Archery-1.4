@@ -583,11 +583,11 @@ div.details-content {
         }
       
 
-
+div.collection-card:hover {
         a:hover::after {
 transform: scaleX(1);
 
-        }
+        }}
 
 
 
