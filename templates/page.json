@@ -37,6 +37,7 @@
           "blocks": {
             "text_YMppJV": {
               "type": "text",
+              "disabled": true,
               "settings": {
                 "text": "<p>ABOUT US</p>",
                 "width": "fit-content",
