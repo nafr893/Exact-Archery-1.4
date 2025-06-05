@@ -40,7 +40,7 @@
         "text_HFTLjP": {
           "type": "text",
           "settings": {
-            "text": "<p>Insert short paragraph of text that describes the product. </p>",
+            "text": "<p><strong>Insert short paragraph of text that describes the product. </strong></p>",
             "width": "100%",
             "max_width": "none",
             "alignment": "left",
