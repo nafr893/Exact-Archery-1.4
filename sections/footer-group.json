@@ -287,8 +287,8 @@
                       "settings": {
                         "icon": "facebook",
                         "width": 24,
-                        "link": "",
-                        "open_in_new_tab": false
+                        "link": "https://www.facebook.com/exactarchery",
+                        "open_in_new_tab": true
                       },
                       "blocks": {}
                     },
