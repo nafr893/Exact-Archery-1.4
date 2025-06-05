@@ -614,7 +614,8 @@
                   "type": "_collection-card-image",
                   "static": true,
                   "settings": {
-                    "collection": "{{ closest.collection }}"
+                    "collection": "{{ closest.collection }}",
+                    "image_ratio": "square"
                   },
                   "blocks": {}
                 }
@@ -661,7 +662,8 @@
                   "type": "_collection-card-image",
                   "static": true,
                   "settings": {
-                    "collection": "{{ closest.collection }}"
+                    "collection": "{{ closest.collection }}",
+                    "image_ratio": "square"
                   },
                   "blocks": {}
                 }
