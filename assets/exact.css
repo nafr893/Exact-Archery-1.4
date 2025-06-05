@@ -516,7 +516,7 @@ a#copyright-link {
   bottom: 0.1em;
   width: 100%;
   height: 2px;
-  background: var(--color-primary-button-border);
+  background: yellow;
   transform: scaleX(0);
   transform-origin: left;
   transition: transform 0.3s cubic-bezier(0.4,0,0.2,1);
