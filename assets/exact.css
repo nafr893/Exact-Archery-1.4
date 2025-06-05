@@ -541,7 +541,12 @@ a#copyright-link {
   transition: transform 0.3s cubic-bezier(0.4,0,0.2,1);
 }
 
-.collection-card__link:hover::after,
+
+   
+    
+    
+    
+   div.collection-card.border-style.collection-card--image-bg:hover::after,
 .link:hover::after,
 .link:focus::after {
   transform: scaleX(1);
