@@ -206,7 +206,7 @@
                         "icon": "instagram",
                         "width": 24,
                         "link": "",
-                        "open_in_new_tab": false
+                        "open_in_new_tab": true
                       },
                       "blocks": {}
                     },
@@ -504,7 +504,7 @@
               "type": "logo",
               "name": "t:names.logo",
               "settings": {
-                "inverse": false,
+                "inverse": true,
                 "font": "heading",
                 "unit": "pixel",
                 "percent_width": 100,
