@@ -739,9 +739,9 @@
               "name": "t:names.text",
               "settings": {
                 "text": "<p><strong>VIDEO GALLERY</strong></p>",
-                "width": "fit-content",
+                "width": "100%",
                 "max_width": "normal",
-                "alignment": "left",
+                "alignment": "center",
                 "type_preset": "h3",
                 "font": "var(--font-body--family)",
                 "font_size": "",
