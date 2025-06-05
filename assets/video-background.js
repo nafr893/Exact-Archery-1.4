@@ -30,3 +30,14 @@ export class VideoBackgroundComponent extends Component {
 if (!customElements.get('video-background-component')) {
   customElements.define('video-background-component', VideoBackgroundComponent);
 }
+
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('deferred-media').forEach(function (media) {
+    const playButton = media.querySelector('.deferred-media__poster-button');
+    if (playButton) {
+      playButton.addEventListener('click', function () {
+        playButton.style.display = 'none';
+      });
+    }
+  });
+});
