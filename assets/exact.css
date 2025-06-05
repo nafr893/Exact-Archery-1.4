@@ -546,9 +546,7 @@ a#copyright-link {
   transition: transform 0.3s cubic-bezier(0.4,0,0.2,1);
 }
 
-
-   
-    
+ 
     
     
    .collection-card--image-bg.collection-card__inner:hover::after,
@@ -556,6 +554,36 @@ a#copyright-link {
 .link:focus::after {
   transform: scaleX(1);
 }
+
+   
+      details.menu__details.spacing-style {
+        a {
+          position: relative;
+  text-decoration: none;
+        }
+      }
+
+
+  details.menu__details.spacing-style::after {
+        a {
+         content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0.1em;
+  width: 100%;
+  height: 2px;
+  background: yellow;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.3s cubic-bezier(0.4,0,0.2,1);
+        }
+      }
+
+details.menu__details.spacing-style {
+        a:hover::after {
+transform: scaleX(1);
+
+        }}
 
 
 div.collection-card {
