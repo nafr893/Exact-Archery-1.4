@@ -1512,9 +1512,9 @@
           "settings": {
             "text": "<p><strong>Reliable broadheads that are built to last.</strong></p>",
             "width": "fit-content",
-            "max_width": "none",
+            "max_width": "normal",
             "alignment": "left",
-            "type_preset": "h6",
+            "type_preset": "rte",
             "font": "var(--font-body--family)",
             "font_size": "1rem",
             "line_height": "normal",
