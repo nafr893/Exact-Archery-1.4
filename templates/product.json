@@ -629,14 +629,14 @@
                 "accordion_row_Ug76Xw": {
                   "type": "_accordion-row",
                   "settings": {
-                    "heading": "INGREDIENTS",
+                    "heading": "SPECS",
                     "open_by_default": false
                   },
                   "blocks": {
                     "text_dE83TU": {
                       "type": "text",
                       "settings": {
-                        "text": "<p><strong>Beeswax</strong> – Provides a light, natural hold while locking in moisture and protecting your beard from environmental stressors.</p><p><strong>Shea Butter</strong> – Deeply nourishes and softens, making your beard smooth and more manageable.</p><p><strong>Apricot Kernel Oil</strong> – Rich in vitamins and fatty acids to hydrate and condition without clogging pores.</p><p><strong>Virgin Organic Avocado Oil</strong> – Full of vitamins A, D, and E, it strengthens your beard while deeply moisturizing.</p><p><strong>Golden Organic Jojoba Oil</strong> – Mimics natural skin oils, balancing moisture and preventing irritation beneath the beard.</p><p><strong>Virgin Organic Argan Nut Oil</strong> – Known for its restorative properties, it nourishes and protects, adding shine and promoting healthy growth.</p><p><strong>Extra Virgin Organic Pumpkin Seed Oil</strong> – Rich in zinc and omega-3s, it helps to strengthen and condition hair, reducing breakage.</p><p><strong>Virgin Organic Rosehip Oil</strong> – Packed with vitamins A and C, it helps to regenerate skin and adds softness to your beard.</p><p><strong>Vitamin E Oil</strong> – An antioxidant that protects against environmental damage and helps your beard maintain its health and shine.</p><p><strong>Organic Sweet Almond Oil</strong> – Softens and smooths while reducing dryness and irritation.</p><p><strong>Grape Seed Oil</strong> – Lightweight and moisturizing, it nourishes without weighing your beard down.</p><p><strong>Essential Oils for Scent</strong> – A clean, fresh fragrance that leaves your beard smelling as good as it looks.</p>",
+                        "text": "<p><strong>Material</strong></p><p>Stainless Steel</p><p><strong>Weight</strong></p><p>100 Grain</p><p><strong>Cutting Diameter</strong></p><p>1 1/8\"</p><p><strong>Additional</strong></p><p>4 removable blades that are easy to sharpen</p>",
                         "width": "100%",
                         "max_width": "normal",
                         "alignment": "left",
@@ -662,86 +662,10 @@
                   "block_order": [
                     "text_dE83TU"
                   ]
-                },
-                "accordion_row_UY9V9X": {
-                  "type": "_accordion-row",
-                  "settings": {
-                    "heading": "BENEFITS",
-                    "open_by_default": false
-                  },
-                  "blocks": {
-                    "text_nDwNih": {
-                      "type": "text",
-                      "settings": {
-                        "text": "<p>Softens and conditions even the most unruly beards</p><p>Provides light hold for shaping and styling</p><p>Hydrates and nourishes the beard and skin beneath</p><p>Adds healthy shine without the greasy feel</p><p>Reduces frizz and split ends</p>",
-                        "width": "100%",
-                        "max_width": "normal",
-                        "alignment": "left",
-                        "type_preset": "rte",
-                        "font": "var(--font-body--family)",
-                        "font_size": "1rem",
-                        "line_height": "normal",
-                        "letter_spacing": "normal",
-                        "case": "none",
-                        "wrap": "pretty",
-                        "color": "var(--color-foreground)",
-                        "background": false,
-                        "background_color": "#00000026",
-                        "corner_radius": 0,
-                        "padding-block-start": 0,
-                        "padding-block-end": 0,
-                        "padding-inline-start": 0,
-                        "padding-inline-end": 0
-                      },
-                      "blocks": {}
-                    }
-                  },
-                  "block_order": [
-                    "text_nDwNih"
-                  ]
-                },
-                "accordion_row_n7UjjA": {
-                  "type": "_accordion-row",
-                  "settings": {
-                    "heading": "HOW TO USE",
-                    "open_by_default": false
-                  },
-                  "blocks": {
-                    "text_Ab6kzc": {
-                      "type": "text",
-                      "settings": {
-                        "text": "<p>Scoop a small amount of <strong>El Jefe Beard Butter</strong> and rub between your palms until it melts. Apply evenly through a clean, damp beard. Style and shape as desired. Use daily for best results.</p>",
-                        "width": "100%",
-                        "max_width": "normal",
-                        "alignment": "left",
-                        "type_preset": "rte",
-                        "font": "var(--font-body--family)",
-                        "font_size": "1rem",
-                        "line_height": "normal",
-                        "letter_spacing": "normal",
-                        "case": "none",
-                        "wrap": "pretty",
-                        "color": "var(--color-foreground)",
-                        "background": false,
-                        "background_color": "#00000026",
-                        "corner_radius": 0,
-                        "padding-block-start": 0,
-                        "padding-block-end": 0,
-                        "padding-inline-start": 0,
-                        "padding-inline-end": 0
-                      },
-                      "blocks": {}
-                    }
-                  },
-                  "block_order": [
-                    "text_Ab6kzc"
-                  ]
                 }
               },
               "block_order": [
-                "accordion_row_Ug76Xw",
-                "accordion_row_UY9V9X",
-                "accordion_row_n7UjjA"
+                "accordion_row_Ug76Xw"
               ]
             }
           },
