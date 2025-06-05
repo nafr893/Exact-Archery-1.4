@@ -3478,6 +3478,7 @@
         "text_xgXRC3",
         "email_signup_xzTgqf"
       ],
+      "disabled": true,
       "settings": {
         "link": "",
         "open_in_new_tab": false,
