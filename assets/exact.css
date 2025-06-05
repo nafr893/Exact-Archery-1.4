@@ -546,7 +546,7 @@ a#copyright-link {
     
     
     
-   div.collection-card.border-style.collection-card--image-bg:hover::after,
+   div.collection-card:hover::after,
 .link:hover::after,
 .link:focus::after {
   transform: scaleX(1);
