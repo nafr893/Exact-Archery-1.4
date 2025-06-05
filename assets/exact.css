@@ -506,8 +506,8 @@ a#copyright-link {
 /* link button styles */
 .link  {
   font-size: 24px; 
-  text-decoration: underline !important;
-  text-decoration-color: #ffd502;
+  text-decoration: underline  #ffd502 !important;
+
   text-decoration-thickness: 2px;
   text-underline-offset: 4px;
 }
