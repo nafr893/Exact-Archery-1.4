@@ -404,6 +404,7 @@
               "type": "image",
               "name": "t:names.image",
               "settings": {
+                "image": "shopify://shop_images/Trophy_Room_Desktop_1.2.png",
                 "link": "",
                 "image_ratio": "landscape",
                 "width": "fill",
@@ -516,8 +517,9 @@
               "type": "image",
               "name": "t:names.image",
               "settings": {
+                "image": "shopify://shop_images/Congratulations_Jacob_on_awesome_Washington_Elk_we_are_so_thankful_to_have_so_many_great_customers.jpg",
                 "link": "",
-                "image_ratio": "adapt",
+                "image_ratio": "square",
                 "width": "fill",
                 "custom_width": 100,
                 "width_mobile": "fill",
