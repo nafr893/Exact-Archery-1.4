@@ -190,8 +190,8 @@ div#shopify-section-template--17256551809101__section_ibY97i, div#shopify-sectio
 div#shopify-section-template--24615979712815__section_TaUitr {
   
 div.border-style.custom-section-content {
-padding-left: 80px; 
-padding-right: 80px; 
+padding-left: 10vw; 
+padding-right: 10vw; 
 }}
 
 
@@ -615,5 +615,5 @@ span.deferred-media__poster-icon.icon-play {
 
 
 header#shopify-section-sections--24615978893615__header_section {
-  border-bottom: 1px solid #ebebeb;
+  border-bottom: 1px solid rgb(0, 0, 0, 0.05);
 }
