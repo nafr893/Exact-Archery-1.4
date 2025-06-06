@@ -159,7 +159,7 @@
               "type": "button",
               "settings": {
                 "label": "APPLY TODAY",
-                "link": "shopify://collections/all",
+                "link": "shopify://pages/sign-up",
                 "open_in_new_tab": false,
                 "style_class": "button",
                 "width": "fit-content",
