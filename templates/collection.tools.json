@@ -82,7 +82,6 @@
         "color_scheme": "scheme-2",
         "background_media": "image",
         "video_position": "cover",
-        "background_image": "shopify://shop_images/el_jefe_merch_1.1.webp",
         "background_image_position": "cover",
         "border": "none",
         "border_width": 1,
@@ -219,6 +218,19 @@
                   },
                   "blocks": {}
                 },
+                "review_a3WwJj": {
+                  "type": "review",
+                  "name": "t:names.product_review_stars",
+                  "settings": {
+                    "product": "{{ closest.product }}",
+                    "stars_style": "shaded",
+                    "show_number": true,
+                    "rating_color": "primary",
+                    "type_preset": "paragraph",
+                    "alignment": "left"
+                  },
+                  "blocks": {}
+                },
                 "price": {
                   "type": "price",
                   "settings": {
@@ -260,6 +272,7 @@
               },
               "block_order": [
                 "product_title_3QjUff",
+                "review_a3WwJj",
                 "price",
                 "swatches_xWhL7M"
               ]
@@ -281,7 +294,7 @@
         "columns_gap_vertical": 16,
         "padding-inline-start": 0,
         "padding-inline-end": 0,
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-3",
         "padding-block-start": 0,
         "padding-block-end": 32
       }
