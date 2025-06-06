@@ -42,8 +42,8 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p>Our broadheads are field-tested and proven. We are trusted by hundreds of satisfied customers that demand precision in the field. </p>",
-            "width": "fit-content",
+            "text": "<p>Our broadheads are field-tested and proven. We are trusted by hundreds of satisfied customers that demand precision.</p>",
+            "width": "100%",
             "max_width": "normal",
             "alignment": "left",
             "type_preset": "rte",
