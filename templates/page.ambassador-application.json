@@ -9,6 +9,58 @@
  */
 {
   "sections": {
+    "1749174511576830f8": {
+      "type": "_blocks",
+      "blocks": {
+        "forms_inline_weH6jK": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "273630",
+            "text_color": "#202020",
+            "button_background_color": "#202020",
+            "button_label_color": "#FFFFFF",
+            "links_color": "#1878B9",
+            "errors_color": "#E02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "padding_right": 0,
+            "padding_left": 0
+          }
+        }
+      },
+      "block_order": [
+        "forms_inline_weH6jK"
+      ],
+      "settings": {
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "center",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 12,
+        "section_width": "page-width",
+        "section_height": "",
+        "section_height_custom": 50,
+        "color_scheme": "scheme-3",
+        "background_media": "none",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_radius": 0,
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "padding-block-start": 80,
+        "padding-block-end": 80
+      }
+    },
     "media_with_content_nhxzgg": {
       "type": "media-with-content",
       "blocks": {
@@ -17,7 +69,7 @@
           "static": true,
           "settings": {
             "media_type": "image",
-            "image": "shopify://shop_images/466858993_17957842568837763_7824354330952490669_n_1_ea0784a4-dc72-43a3-a70d-c1a6b069a222.webp",
+            "image": "shopify://shop_images/Our_story_2.1.webp",
             "link": "",
             "video_loop": true,
             "video_autoplay": false,
@@ -102,7 +154,7 @@
                 "text_FXibxK": {
                   "type": "text",
                   "settings": {
-                    "text": "<p><strong>AMBASSADOR PROGRAM</strong></p>",
+                    "text": "<h2><strong>OUR STORY</strong></h2>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -127,7 +179,7 @@
                 "text_DrPNyc": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>If you are a high-quality content creator who loves to pursue a revenue-generating opportunity with our Exact Archery team we would love to bring you onboard to our Ambassador program for the upcoming year.  Some of the perks include discounts on our products as well as a commission -base compensation. We would love to have you join our team as a bowhunter passionate about growing your own brand and our brand in a meaningful way. Either fill out the survey below or email us at exactarchery@gmail.com </p>",
+                    "text": "<p>The idea came from a dollar shave club commercial. Razor blades used to be way overpriced and there was no competition that helped keep them in check. In the same respect, I thought, why are broadheads so expensive? What I found out is they don’t have to be! By working with manufacturers and selling directly to customers we cut out the middle man and give bowhunters the best price we have built credibility and dependability in the industry. We are growing fast will you join us?</p><p>Jake Wilkins- Founder and CEO</p>",
                     "width": "100%",
                     "max_width": "none",
                     "alignment": "left",
@@ -157,11 +209,12 @@
             },
             "button_dJQEzK": {
               "type": "button",
+              "disabled": true,
               "settings": {
-                "label": "APPLY TODAY",
-                "link": "shopify://pages/sign-up",
+                "label": "Shop now",
+                "link": "shopify://collections/all",
                 "open_in_new_tab": false,
-                "style_class": "button",
+                "style_class": "link",
                 "width": "fit-content",
                 "custom_width": 100,
                 "width_mobile": "fit-content",
@@ -177,8 +230,9 @@
           ]
         }
       },
+      "disabled": true,
       "settings": {
-        "media_position": "left",
+        "media_position": "right",
         "media_width": "medium",
         "media_height": "80svh",
         "section_width": "full-width",
@@ -337,6 +391,7 @@
     }
   },
   "order": [
+    "1749174511576830f8",
     "media_with_content_nhxzgg",
     "section_rp4Txn",
     "main"
