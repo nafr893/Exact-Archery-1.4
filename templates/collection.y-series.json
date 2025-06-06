@@ -219,6 +219,19 @@
                   },
                   "blocks": {}
                 },
+                "review_VFi4tC": {
+                  "type": "review",
+                  "name": "t:names.product_review_stars",
+                  "settings": {
+                    "product": "{{ closest.product }}",
+                    "stars_style": "shaded",
+                    "show_number": true,
+                    "rating_color": "primary",
+                    "type_preset": "paragraph",
+                    "alignment": "left"
+                  },
+                  "blocks": {}
+                },
                 "price": {
                   "type": "price",
                   "settings": {
@@ -260,6 +273,7 @@
               },
               "block_order": [
                 "product_title_3QjUff",
+                "review_VFi4tC",
                 "price",
                 "swatches_xWhL7M"
               ]
