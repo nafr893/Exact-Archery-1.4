@@ -17,7 +17,7 @@
           "static": true,
           "settings": {
             "media_type": "image",
-            "image": "shopify://shop_images/Our_story_2.1.webp",
+            "image": "shopify://shop_images/466858993_17957842568837763_7824354330952490669_n_1_ea0784a4-dc72-43a3-a70d-c1a6b069a222.webp",
             "link": "",
             "video_loop": true,
             "video_autoplay": false,
@@ -102,7 +102,7 @@
                 "text_FXibxK": {
                   "type": "text",
                   "settings": {
-                    "text": "<h2><strong>OUR STORY</strong></h2>",
+                    "text": "<p><strong>AMBASSADOR PROGRAM</strong></p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -127,7 +127,7 @@
                 "text_DrPNyc": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>The idea came from a dollar shave club commercial. Razor blades used to be way overpriced and there was no competition that helped keep them in check. In the same respect, I thought, why are broadheads so expensive? What I found out is they don’t have to be! By working with manufacturers and selling directly to customers we cut out the middle man and give bowhunters the best price we have built credibility and dependability in the industry. We are growing fast will you join us?</p><p>Jake Wilkins- Founder and CEO</p>",
+                    "text": "<p>If you are a high-quality content creator who loves to pursue a revenue-generating opportunity with our Exact Archery team we would love to bring you onboard to our Ambassador program for the upcoming year.  Some of the perks include discounts on our products as well as a commission -base compensation. We would love to have you join our team as a bowhunter passionate about growing your own brand and our brand in a meaningful way. Either fill out the survey below or email us at exactarchery@gmail.com </p>",
                     "width": "100%",
                     "max_width": "none",
                     "alignment": "left",
@@ -157,12 +157,11 @@
             },
             "button_dJQEzK": {
               "type": "button",
-              "disabled": true,
               "settings": {
-                "label": "Shop now",
+                "label": "APPLY TODAY",
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
-                "style_class": "link",
+                "style_class": "button",
                 "width": "fit-content",
                 "custom_width": 100,
                 "width_mobile": "fit-content",
@@ -179,7 +178,7 @@
         }
       },
       "settings": {
-        "media_position": "right",
+        "media_position": "left",
         "media_width": "medium",
         "media_height": "80svh",
         "section_width": "full-width",
@@ -259,6 +258,7 @@
         "text_EX7j48",
         "video_Pk6TfU"
       ],
+      "disabled": true,
       "name": "t:names.video_section",
       "settings": {
         "content_direction": "column",
