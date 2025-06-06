@@ -615,5 +615,5 @@ span.deferred-media__poster-icon.icon-play {
 
 
 header#shopify-section-sections--24615978893615__header_section {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.037);
+  border-bottom: 0.25px solid rgb(255 255 255 / 87%) !important
 } 
