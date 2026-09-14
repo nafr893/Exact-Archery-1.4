@@ -672,6 +672,16 @@
     {% when 'breadcrumbs' %}
       {% render 'breadcrumbs', collection: collection %}
     {% else %}
-      {%- render block.type, block: block -%}
+      {%- render block, block: block -%}
   {% endcase %}
 {% endfor %}
+{% comment %}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{%- render block.type, block: block -%}"
+  to: "{%- render block, block: block -%}"
+  position: 17115..17149
+{% endcomment %}
